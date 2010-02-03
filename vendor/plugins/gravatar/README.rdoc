@@ -7,7 +7,7 @@ Gravatars allow users to configure an avatar to go with their email address at
 a central location: http://gravatar.com. Gravatar-aware websites (such
 as yours) can then look up and display each user's preferred avatar, without
 having to handle avatar management. The user gets the benefit of not having to
-set up an avatar for each site that they post on.
+set up an avatar for each site that they may post on.
 
 == Installation
 
